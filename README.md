@@ -1,4 +1,4 @@
-# CISC-W 2025, Game Pricing and Consumption Patterns
+# CISC W 2025, Game Pricing and Consumption Patterns
 
 [![English](https://ysl-ryudo.github.io/assets/diagrams/language-en-current.svg)](README.md) [![한국어](https://ysl-ryudo.github.io/assets/diagrams/language-ko.svg)](README.ko.md) [![日本語](https://ysl-ryudo.github.io/assets/diagrams/language-ja.svg)](README.ja.md)
 
@@ -14,10 +14,10 @@ This study grew out of item-pricing decisions in Slap Squad. It compares fixed a
 
 [Paper (PDF)](paper/cisc-w-2025-paper.pdf), [Conference poster (PDF)](paper/cisc-w-2025-poster.pdf), [Portfolio](https://ysl-ryudo.github.io/en/research/cisc/)
 
-<a href="paper/cisc-w-2025-poster.pdf"><img src="paper/cisc-w-2025-poster.webp" alt="CISC-W 2025, Conference poster" width="380"></a>
+<a href="paper/cisc-w-2025-poster.pdf"><img src="paper/cisc-w-2025-poster.webp" alt="CISC W 2025, Conference poster" width="380"></a>
 
 ## Authors
 
 Young-Sang Lee, Ji-Uk Choi, Yun-Ho Kim, Myeong-Jae Lee, Hye-Young Kim
 
-[Slap Squad, Unity](https://github.com/YSL-RyuDo/BNB), [Slap Squad, C++ server](https://github.com/YSL-RyuDo/BnBServer)
+[Slap Squad, Unity](https://github.com/YSL-RyuDo/SlapSquad), [Slap Squad, C++ server](https://github.com/YSL-RyuDo/SlapSquadServer)
